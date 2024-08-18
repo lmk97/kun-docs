@@ -2,7 +2,7 @@ import { defineConfig } from 'rspress/config';
 
 export default defineConfig({
   root: 'docs',
-  outDir: 'pages',
+  outDir: '../kun-pages',
   base: 'kun-docs',
   title: 'Kun',
   description: 'An incredibly fast JavaScript runtime.',
